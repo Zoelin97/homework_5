@@ -1,0 +1,1 @@
+The collection.html page and the collection-style.css file is the extra page I did for the extra credit.
